@@ -3,7 +3,7 @@
 Welcome to my markdown project!
 
 ## Table of Contents
-- [https://www.cbssports.com/college-football/news/college-football-bowl-projections-oklahoma-missouri-improve-game-slots-after-dominant-conference-wins/](page1.md)
+[Page 1](https://www.cbssports.com/college-football/news/college-football-bowl-projections-oklahoma-missouri-improve-game-slots-after-dominant-conference-wins/)
   
 - [Page 2](page2.md)
 
