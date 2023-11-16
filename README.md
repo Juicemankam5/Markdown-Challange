@@ -9,10 +9,10 @@ Welcome to my markdown project!
 In the SEC, Missouri after beating Tennessee 36-7, Mizzou is projected to be in the Citrus Bowl, while Tennessee is slotted for the Gator Bowl. 
 
 
-## Mizzou Mens Basketball Schedule 
 
+## Mizzou Basketball Schedule
+2023-24 Mizzou Men's Basketball Schedule 
 [Mizzou Basketball Schedule](https://mutigers.com/sports/mens-basketball/schedule)
 
-2023-24 Mizzou Men's Basketball Schedule 
 
 
