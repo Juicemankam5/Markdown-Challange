@@ -1,4 +1,4 @@
-Welcome to my markdown project!
+Welcome to my all things Mizzou Project
 
 ## Table of Contents
 [Mizzou Football bowl Game Projections](https://www.cbssports.com/college-football/news/college-football-bowl-projections-oklahoma-missouri-improve-game-slots-after-dominant-conference-wins/)
@@ -12,7 +12,7 @@ In the SEC, Missouri after beating Tennessee 36-7, Mizzou is projected to be in 
 
 ## Mizzou Basketball Schedule
 2023-24 Mizzou Men's Basketball Schedule 
-[Mizzou Basketball Schedule](https://mutigers.com/sports/mens-basketball/schedule)
+
 
 
 
